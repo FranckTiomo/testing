@@ -1,0 +1,2 @@
+C:\Dev\CppSeries\Keywords\Debug\Keywords.exe
+C:\Dev\CppSeries\Keywords\Debug\Keywords.pdb
